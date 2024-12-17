@@ -1,0 +1,102 @@
+[
+ {
+  "user": "microsoft",
+  "repo": "playwright",
+  "url": "https://github.com/microsoft/playwright"
+ },
+ {
+  "user": "apify",
+  "repo": "crawlee",
+  "url": "https://github.com/apify/crawlee"
+ },
+ {
+  "user": "checkly",
+  "repo": "headless-recorder",
+  "url": "https://github.com/checkly/headless-recorder"
+ },
+ {
+  "user": "microsoft",
+  "repo": "playwright-python",
+  "url": "https://github.com/microsoft/playwright-python"
+ },
+ {
+  "user": "Skyvern-AI",
+  "repo": "skyvern",
+  "url": "https://github.com/Skyvern-AI/skyvern"
+ },
+ {
+  "user": "browserless",
+  "repo": "browserless",
+  "url": "https://github.com/browserless/browserless"
+ },
+ {
+  "user": "artilleryio",
+  "repo": "artillery",
+  "url": "https://github.com/artilleryio/artillery"
+ },
+ {
+  "user": "getmaxun",
+  "repo": "maxun",
+  "url": "https://github.com/getmaxun/maxun"
+ },
+ {
+  "user": "apify",
+  "repo": "crawlee-python",
+  "url": "https://github.com/apify/crawlee-python"
+ },
+ {
+  "user": "codeceptjs",
+  "repo": "CodeceptJS",
+  "url": "https://github.com/codeceptjs/CodeceptJS"
+ },
+ {
+  "user": "qawolf",
+  "repo": "qawolf",
+  "url": "https://github.com/qawolf/qawolf"
+ },
+ {
+  "user": "microsoft",
+  "repo": "dotnet-podcasts",
+  "url": "https://github.com/microsoft/dotnet-podcasts"
+ },
+ {
+  "user": "vogler",
+  "repo": "free-games-claimer",
+  "url": "https://github.com/vogler/free-games-claimer"
+ },
+ {
+  "user": "microsoft",
+  "repo": "playwright-dotnet",
+  "url": "https://github.com/microsoft/playwright-dotnet"
+ },
+ {
+  "user": "mishushakov",
+  "repo": "llm-scraper",
+  "url": "https://github.com/mishushakov/llm-scraper"
+ },
+ {
+  "user": "playwright-community",
+  "repo": "playwright-go",
+  "url": "https://github.com/playwright-community/playwright-go"
+ },
+ {
+  "user": "bjesus",
+  "repo": "pipet",
+  "url": "https://github.com/bjesus/pipet"
+ },
+ {
+  "user": "simonw",
+  "repo": "shot-scraper",
+  "url": "https://github.com/simonw/shot-scraper"
+ },
+ {
+  "user": "ocsjs",
+  "repo": "ocsjs",
+  "url": "https://github.com/ocsjs/ocsjs"
+ },
+ {
+  "user": "browserbase",
+  "repo": "stagehand",
+  "url": "https://github.com/browserbase/stagehand"
+ }
+]

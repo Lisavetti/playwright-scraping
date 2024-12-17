@@ -1,0 +1,23 @@
+{
+  "name": "playwright-scraping",
+  "version": "1.0.0",
+  "description": "web scraping with playwright",
+  "main": "index.js",
+  "scripts": {
+    "scraper": "node scraper.js",
+    "scraper:3": "for run in {1..3}; do node scraper.js; done",
+    "binance": "node scraper-binance.js"
+  },
+  "keywords": [
+    "web",
+    "scraping",
+    "playwright"
+  ],
+  "author": "Liza",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "playwright": "^1.49.1",
+    "random-useragent": "^0.5.0"
+  }
+}
